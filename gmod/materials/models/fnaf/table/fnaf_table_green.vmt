@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+
+	"$basetexture" "models/fnaf/table/fnaf_table_green"
+	"$bumpmap" "models/fnaf/table/fnaf_table_normal"
+	
+	"$phongalbedotint" "1"	
+
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" "3"	
+	"$phongfresnelranges"	"[.3 1 8]"
+
+
+}

@@ -1,0 +1,8 @@
+"lightmappedGeneric"
+{
+	$baseTexture fnaf2/bigpresent
+	
+	$cubemap env_cubemap
+	
+	$surfaceprop plaster
+}

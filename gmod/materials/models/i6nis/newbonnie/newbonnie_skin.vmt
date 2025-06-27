@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/i6nis/newbonnie/NewBonnie_Skin"
+		"$envmapmask" "models/i6nis/newbonnie/Specular"
+		
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/keithy/props/arm_legs"
+	"$bumpmap" "models/keithy/props/FreddyNormal"
+}

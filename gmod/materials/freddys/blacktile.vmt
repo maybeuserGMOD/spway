@@ -1,0 +1,11 @@
+"lightmappedGeneric"
+{
+	$baseTexture Freddys/blacktile
+		$bumpmap Freddys/blacktile_bump
+	
+	$surfaceprop tile
+	
+	$envmap env_cubemap
+	
+	$normalmapalphaenvmapmask 1
+}

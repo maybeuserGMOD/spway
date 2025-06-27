@@ -1,0 +1,9 @@
+"lightmappedGeneric"
+{
+	$baseTexture fnaf2/fnaf2wall
+		$bumpmap fnaf2/fnaf2wall_bump
+	
+	$cubemap env_cubemap
+	
+	$surfaceprop plaster
+}

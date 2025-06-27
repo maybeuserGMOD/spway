@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/keithy/props/NewChica_Head"
+		"$envmapmask" "models/keithy/props/Specular_HEad"
+
+}

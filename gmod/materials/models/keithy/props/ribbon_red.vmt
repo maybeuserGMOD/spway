@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/keithy/props/ribbon_red"
+	
+$halflambert 0
+$phong 1
+$diffuseexp 1
+
+	"$lightwarptexture" "models/lightwarps/weapon_lightwarp"
+
+
+$phongfresnelranges "[1.5 .9 1]"
+$phongboost .1
+$phongexponent 40
+}

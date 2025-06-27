@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/i6nis/newchicaevil/NewChica_Body"
+		"$envmapmask" "models/i6nis/newchicaevil/Specular"
+
+}

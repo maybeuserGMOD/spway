@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "fnaf2/deaths/puppetdeath"
+
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "14"
+		 } 
+	} 
+}

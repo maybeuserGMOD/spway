@@ -1,0 +1,8 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "Freddys/freddybath"
+		"$bumpmap" "Freddys/freddybath_norm"
+	
+	"$surfaceprop" "tile"
+	
+}

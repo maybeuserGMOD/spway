@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/i6nis/mangle/Endo_Body"
+		"$bumpmap" "models/i6nis/mangle/MetalBareBump"
+}

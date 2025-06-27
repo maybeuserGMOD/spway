@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$baseTexture models/i6nis/newchicaevil/MetalBare
+		$bumpmap models/i6nis/newchicaevil/MetalBareBump
+		$envmapmask models/i6nis/newchicaevil/MetalBarSpecular
+	
+	$surfaceprop metal
+	
+	$envmap env_cubemap
+	
+	$normalmapalphaenvmapmask 1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/i6nis/newfreddy/NewFreddy_Head"
+		"$envmapmask" "models/i6nis/newbonnie/Specular"
+
+}

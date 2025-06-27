@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/i6nis/mangle/Mangle_Head"
+		"$envmapmask" "models/i6nis/mangle/Specular"
+
+}
